@@ -1,6 +1,7 @@
 # 簽到系統
 > 這個簽到系統的目的是製作一個網頁APP，可以記錄每天的上班以及下班的時間
-![Screenshot_20240923-230113](https://github.com/user-attachments/assets/d18b8512-2044-4e8d-86b3-9819e58eb1f5)
+![Screenshot_20240923-234345](https://github.com/user-attachments/assets/3d4eee70-0c5d-4c9c-bf7c-e2af4049038c)
+
 
 # Requirements
 後端須具備執行php的能力，目前部屬在 bluehost、xampp(local) 的伺服器上都可以運作。
